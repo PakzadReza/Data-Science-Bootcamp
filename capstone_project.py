@@ -1,5 +1,6 @@
 # This Program Analysis Amazon's Customers Reviews
 # The program is using spacy library for the NLP project
+# This program use git for revision control
 
 import spacy     # Import spaCy NLP module
 import pandas as pd # Import Pandas module for data handling
